@@ -21,5 +21,5 @@ And here's a working protoype that has been scapped for some reasons.
 
 ![image](https://github.com/user-attachments/assets/91a0c1e1-e9b4-45e7-98ef-03d52944d341)
 
-Want to add more Calculation Options? Let's see what comes next!\n
+Want to add more Calculation Options? Let's see what comes next!
 NOTE: THIS CODE IS AI GENERATED! The Calculation part was imported from PyCalc-GUI!
