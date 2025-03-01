@@ -17,9 +17,9 @@ And what's more? It's coming soon! Here's a prototype blueprint of the app (It's
 
 ![Basic](https://github.com/user-attachments/assets/8f6823b5-b389-47e4-8e7d-43055a8bec0d)
 
-And here's a working protoype that has been scapped.
+And here's a working protoype that has been scapped for some reasons.
 
 ![image](https://github.com/user-attachments/assets/91a0c1e1-e9b4-45e7-98ef-03d52944d341)
 
-Want to add more Calculation Options? Let's see what comes next!
+Want to add more Calculation Options? Let's see what comes next!\n
 NOTE: THIS CODE IS AI GENERATED! The Calculation part was imported from PyCalc-GUI!
