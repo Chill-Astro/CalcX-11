@@ -21,5 +21,13 @@ And here's a working protoype that has been scapped for some reasons.
 
 ![image](https://github.com/user-attachments/assets/91a0c1e1-e9b4-45e7-98ef-03d52944d341)
 
+Here's another scrapped version
+
+![Screenshot 2025-03-02 003904](https://github.com/user-attachments/assets/5e3659d1-a56f-4867-a6bc-52c9b7c46016)
+
+And here's a version that will be the new CalcX-11 (With it's own logo now) !
+
+![image](https://github.com/user-attachments/assets/709ba274-7e21-4b31-a25c-8bb3cf4cc379)
+
 Want to add more Calculation Options? Let's see what comes next!
 NOTE: THIS CODE IS AI GENERATED! The Calculation part was imported from PyCalc-GUI!
