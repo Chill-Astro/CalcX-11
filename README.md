@@ -29,5 +29,9 @@ And here's a version that will be the new CalcX-11 (With it's own logo now) !
 
 ![image](https://github.com/user-attachments/assets/709ba274-7e21-4b31-a25c-8bb3cf4cc379)
 
+And now it has got icons too!
+
+![image](https://github.com/user-attachments/assets/84fb8071-9354-460e-a884-0178343c45a2)
+
 Want to add more Calculation Options? Let's see what comes next!
 NOTE: THIS CODE IS AI GENERATED! The Calculation part was imported from PyCalc-GUI!
