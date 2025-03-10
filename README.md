@@ -1,4 +1,4 @@
-CalcX-11 : A Midweight and Powerful Calculator. Made with WinAppSDK!
+Calculator by Chill-Astro : A Midweight and Powerful Calculator. Made with WinAppSDK!
 
 Heron's Formula, Compound Interest, etc., many things we learn, but overtime it becomes boring.
 Asking ChatGPT? Or using an online solver? Well, why not do it offline?
@@ -7,11 +7,16 @@ It's not revolutionary, but it's helpful! Considering you don't need prompting a
 
 Features Include :
 
-- MicaAlt Blur
-- Theme Switching Baked in
-- Clean UI
+- MicaAlt Blur ✅
+- Theme Switching Baked in ✅
+- Clean UI ✅
 - More Powerful and Feature Rich than PyCalc-GUI and PyCalc and it's deravatives
-- More User-Friendly
+- More User-Friendly ✅
+
+Here's the Latest Screenshot of my Calculator (Full Screen view) : 
+
+https://github.com/user-attachments/assets/aab14d19-b3a1-432b-8b3b-83cc2473549e
+
 
 And what's more? It's coming soon! Here's a prototype blueprint of the app (It's not final).
 
