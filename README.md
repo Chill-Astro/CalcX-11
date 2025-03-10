@@ -13,28 +13,21 @@ Features Include :
 - More Powerful and Feature Rich than PyCalc-GUI and PyCalc and it's deravatives
 - More User-Friendly ✅
 
-Here's the Latest Screenshot of my Calculator (Full Screen view) : 
+Here's the Latest Preview of my Calculator (Full Screen view) : 
 
 https://github.com/user-attachments/assets/aab14d19-b3a1-432b-8b3b-83cc2473549e
-
 
 And what's more? It's coming soon! Here's a prototype blueprint of the app (It's not final).
 
 ![Basic](https://github.com/user-attachments/assets/8f6823b5-b389-47e4-8e7d-43055a8bec0d)
 
-And here's a working protoype that has been scapped for some reasons.
+And here's some prototypes that I made before :
 
 ![image](https://github.com/user-attachments/assets/91a0c1e1-e9b4-45e7-98ef-03d52944d341)
 
-Here's another scrapped version
-
 ![Screenshot 2025-03-02 003904](https://github.com/user-attachments/assets/5e3659d1-a56f-4867-a6bc-52c9b7c46016)
 
-And here's a version that will be the new CalcX-11 (With it's own logo now) !
-
 ![image](https://github.com/user-attachments/assets/709ba274-7e21-4b31-a25c-8bb3cf4cc379)
-
-And now it has got icons too!
 
 ![image](https://github.com/user-attachments/assets/84fb8071-9354-460e-a884-0178343c45a2)
 
