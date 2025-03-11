@@ -1,9 +1,8 @@
-Calculator by Chill-Astro : A Midweight and Powerful Calculator. Made with WinAppSDK!
+Calculator by Chill-Astro : A Simple Calculator with Scripted Actions. Made for Windows 11! 
 
-Heron's Formula, Compound Interest, etc., many things we learn, but overtime it becomes boring.
-Asking ChatGPT? Or using an online solver? Well, why not do it offline?
-Presenting my Calculator! Made by only 1 person and AI, with all of us in mind! 
-It's not revolutionary, but it's helpful! Considering you don't need prompting anymore! 
+So, it's just like any other Calculator. But what's different it Scripted Actions! Ok what's this? Well, you give inputs on a specefic action, and get a output!
+For example : Heron's Formula Page will input the sides of a triangle and give you the Area! And now this is the Start of this GUI app, and it will expand further with more actions!
+Multiple Functions have been packed into a nice GUI. Available for both Windows 11 and WIndows 10.
 
 Features Include :
 
@@ -17,9 +16,19 @@ Here's the Latest Preview of my Calculator (Full Screen view) :
 
 ![Screen Recording 2025-03-10 220732](https://github.com/user-attachments/assets/b0d0adb1-bfb8-4731-9e48-80a4b74804d2)
 
-Calculator Page Plans : 
+Calculator Page Plans [PENDING] : 
 
 ![UI](https://github.com/user-attachments/assets/61ba81c4-5a1d-4da6-8112-d223ffbe805c)
 
-Want to add more Calculation Options? Let's see what comes next!
-NOTE: THIS CODE IS AI GENERATED! The Calculation part was imported from PyCalc-GUI!
+Requirements :
+
+- Any system running Windows 11 or Windows 10 20H2 [19041] or higher.
+- For Building from Source, install Visual Studio with WinUI Development and .NET Development Support. .NET 7.0 and WinAppSDK 26100.xxxx is required.
+
+Installation steps :
+
+- Download the .msix and .cer file.
+- Import the .cer file (To any trusted store). [! Only for first run !]
+- Install the .msix as usual.
+
+NOTE: THIS CODE IS AI GENERATED! ALL CODE HAS BEEN REVIEWED AND TESTED.
