@@ -16,7 +16,7 @@ Here's the Latest Preview of my Calculator :
 
 ![Screenshot 2025-03-14 013456](https://github.com/user-attachments/assets/53f9f44a-64d7-45c2-b47f-6421e87f5a81)
 
-And here's an older screenshot :
+And here's an older preview :
 
 ![Screen Recording 2025-03-10 220732](https://github.com/user-attachments/assets/b0d0adb1-bfb8-4731-9e48-80a4b74804d2)
 
