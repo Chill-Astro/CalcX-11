@@ -12,7 +12,7 @@ Features Include :
 - More Powerful and Feature Rich than PyCalc-GUI and PyCalc and it's deravatives ✅
 - More User-Friendly ✅
 
-Here's the Latest Preview of my Calculator (Full Screen view) : 
+Here's the Latest Preview of my Calculator : 
 
 ![Screenshot 2025-03-14 013456](https://github.com/user-attachments/assets/53f9f44a-64d7-45c2-b47f-6421e87f5a81)
 
