@@ -14,7 +14,7 @@ Features Include :
 
 Here's the Latest Preview of my Calculator (Full Screen view) : 
 
-![Screenshot 2025-03-13 224954](https://github.com/user-attachments/assets/a4dad508-48a0-4c05-913e-948460a304dc)
+![Screenshot 2025-03-14 013456](https://github.com/user-attachments/assets/53f9f44a-64d7-45c2-b47f-6421e87f5a81)
 
 And here's an older screenshot :
 
