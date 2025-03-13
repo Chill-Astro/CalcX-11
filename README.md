@@ -14,9 +14,13 @@ Features Include :
 
 Here's the Latest Preview of my Calculator (Full Screen view) : 
 
+![Screenshot 2025-03-13 224954](https://github.com/user-attachments/assets/a4dad508-48a0-4c05-913e-948460a304dc)
+
+And here's an older screenshot :
+
 ![Screen Recording 2025-03-10 220732](https://github.com/user-attachments/assets/b0d0adb1-bfb8-4731-9e48-80a4b74804d2)
 
-Calculator Page Plans [PENDING] : 
+Calculator Page Plans [ALMOST DONE] : 
 
 ![UI](https://github.com/user-attachments/assets/61ba81c4-5a1d-4da6-8112-d223ffbe805c)
 
