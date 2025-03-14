@@ -20,10 +20,6 @@ And here's an older preview :
 
 ![Screen Recording 2025-03-10 220732](https://github.com/user-attachments/assets/b0d0adb1-bfb8-4731-9e48-80a4b74804d2)
 
-Calculator Page Plans [ALMOST DONE] : 
-
-![UI](https://github.com/user-attachments/assets/61ba81c4-5a1d-4da6-8112-d223ffbe805c)
-
 Requirements :
 
 - Any system running Windows 11 or Windows 10 20H2 [19041] or higher.
