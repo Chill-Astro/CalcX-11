@@ -1,6 +1,6 @@
 Calculator by Chill-Astro : A Simple Calculator with Scripted Actions. Made for Windows 11! 
 
-So, it's just like any other Calculator. But what's different it Scripted Actions! Ok what's this? Well, you give inputs on a specefic action, and get a output!
+So, it's just like any other Calculator. But what makes it different is Scripted Actions! Ok what's this? Well, you give inputs on a specefic action, and get a output!
 For example : Heron's Formula Page will input the sides of a triangle and give you the Area! And now this is the Start of this GUI app, and it will expand further with more actions!
 Multiple Functions have been packed into a nice GUI. Available for both Windows 11 and WIndows 10.
 
